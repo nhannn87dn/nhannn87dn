@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Nguyễn Ngọc Nhân
+## <h2 align="center">  Nguyễn Ngọc Nhân</h2>
 
 **nhannn87dn/nhannn87dn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
