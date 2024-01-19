@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+<div style="border-bottom: 1px solid #444;margin: 30px 0"></div>
+
 **nhannn87dn/nhannn87dn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
